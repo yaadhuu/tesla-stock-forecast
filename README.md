@@ -35,16 +35,4 @@ Deployed seamlessly on **Render Cloud Platform** using **FastAPI** as the backen
 
 ---
 
-## 📊 API Response Example
-```json
-{
-  "LSTM_Forecast": [280.45, 282.32, 283.11, ...],
-  "ARIMA_Forecast": [279.11, 280.54, 282.76, ...],
-  "SARIMA_Forecast": [278.90, 280.40, 281.70, ...],
-  "Prophet_Forecast": [280.12, 281.89, 283.01, ...],
-  "GARCH_Volatility": [2.12, 2.15, 2.18, ...],
-  "Anomalies": [
-    {"Date": "2024-09-15", "Close": 350.75},
-    {"Date": "2024-10-03", "Close": 360.22}
-  ]
-}
+
