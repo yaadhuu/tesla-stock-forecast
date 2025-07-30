@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+prophet
+arch
+tensorflow==2.10.1
+scikit-learn
+statsmodels
