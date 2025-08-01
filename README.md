@@ -1,4 +1,4 @@
-# 🚀 Tesla Stock Forecasting API 
+# Tesla Stock Forecasting API 
 
 ![Tesla Forecast Banner](https://img.shields.io/badge/Tesla-Stock%20Prediction-red?style=for-the-badge&logo=tesla&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-⚡-green?style=for-the-badge&logo=fastapi)
